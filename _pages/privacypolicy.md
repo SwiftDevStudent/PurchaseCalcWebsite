@@ -5,16 +5,16 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+August 18 2024
 
-## SwiftUI Components 
+## Lifetime Purchase Calculator
 
 ### Privacy Policy
 We believe privacy is a fundamental human right.
 
-With Libraried you don't have anything to worry about, 
+With Lifetime Purchase Calculator you don't have anything to worry about, 
 we don't collect any data!
 Protecting your privacy is all about having control over your data.
 
-At Libraried, we help you control and protect
+At Lifetime Purchase Calculator, we help you control and protect
 what's yours: It's Your Data. Not Big Data!
